@@ -50,6 +50,7 @@ void Record:: show_record()
     	show.getline(rec,50);
     	cout<<"\tRs."<<rec<<endl;
 	}
+	
     show.close();
 	
 	getch();
